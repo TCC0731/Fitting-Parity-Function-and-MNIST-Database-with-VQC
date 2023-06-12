@@ -27,7 +27,7 @@ import pickle
 
 import argparse
 
-## Load and Set Hyperparameter
+## Load and Define Hyperparameter
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--lr", type=float, default=0.001)
